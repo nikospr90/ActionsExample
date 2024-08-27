@@ -1,2 +1,2 @@
 # ActionsExample
-Example for github actions
+Example for GitHub actions
