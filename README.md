@@ -1,3 +1,3 @@
 # ActionsExample
 Example for GitHub actions
-# Why you do this
+Why you do this
